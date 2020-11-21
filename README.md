@@ -1,3 +1,3 @@
 # proyecto-equipo Bienvenidos
 
-Rama principal en donde va a estar el producto final creado por el equipo, pronto este readme va a estar bien escrito con toda la info necesaria XD.
+Rama secundaria en donde vamos a hacer merge y unir todos los componentes, hacer pruebas, etc
